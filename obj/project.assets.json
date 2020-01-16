@@ -12071,11 +12071,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruiribeiro\\OneDrive\\DEV\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
       "projectName": "Programatica.DummyApp.Mvc",
-      "projectPath": "C:\\Users\\ruiribeiro\\OneDrive\\DEV\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
+      "projectPath": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
       "packagesPath": "C:\\Users\\ruiribeiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruiribeiro\\OneDrive\\DEV\\Programatica.DummyApp.Mvc\\obj\\",
+      "outputPath": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

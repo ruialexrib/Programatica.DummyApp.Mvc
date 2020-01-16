@@ -34,11 +34,13 @@ namespace Programatica.DummyApp.Mvc
         public void ConfigureServices(IServiceCollection services)
         {
             // sqlserver context
-            services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            // uncomment this to use sql server
+            //services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             // inmemory context
-            /* SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(Configuration.GetConnectionString("DefaultConnection"));
-            services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase(builder.InitialCatalog));*/
+            // comment this to use sql server
+             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(Configuration.GetConnectionString("DefaultConnection"));
+            services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase(builder.InitialCatalog));
 
             // context
             services.AddTransient<IDbContext, AppDbContext>();

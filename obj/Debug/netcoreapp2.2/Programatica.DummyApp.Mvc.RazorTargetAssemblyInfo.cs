@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © Programatica Software 2020")]
 [assembly: System.Reflection.AssemblyProductAttribute("Programatica.DummyApp.Mvc")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Programatica.Framework demo application")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Programatica.Framework demo mvc application")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Programatica.DummyApp.Mvc.Views")]
