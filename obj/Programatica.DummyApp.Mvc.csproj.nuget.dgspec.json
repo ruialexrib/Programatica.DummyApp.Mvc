@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Workspace\\_netcore2\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj": {}
+    "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Workspace\\_netcore2\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj": {
+    "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Workspace\\_netcore2\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
         "projectName": "Programatica.DummyApp.Mvc",
-        "projectPath": "D:\\OneDrive\\Workspace\\_netcore2\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
+        "projectPath": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\Programatica.DummyApp.Mvc.csproj",
         "packagesPath": "C:\\Users\\ruiribeiro\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Workspace\\_netcore2\\Programatica.DummyApp.Mvc\\obj\\",
+        "outputPath": "C:\\Users\\ruiribeiro\\Documents\\GitHub\\Programatica.DummyApp.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,17 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {
-              "D:\\Documents\\GitHub\\Programatica.Framework\\Programatica.Framework.Core\\Programatica.Framework.Core.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Programatica.Framework\\Programatica.Framework.Core\\Programatica.Framework.Core.csproj"
-              },
-              "D:\\Documents\\GitHub\\Programatica.Framework\\Programatica.Framework.Data\\Programatica.Framework.Data.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Programatica.Framework\\Programatica.Framework.Data\\Programatica.Framework.Data.csproj"
-              },
-              "D:\\Documents\\GitHub\\Programatica.Framework\\Programatica.Framework.Services\\Programatica.Framework.Services.csproj": {
-                "projectPath": "D:\\Documents\\GitHub\\Programatica.Framework\\Programatica.Framework.Services\\Programatica.Framework.Services.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -70,6 +60,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.2, )"
+            },
+            "Programatica.Framework.Services": {
+              "target": "Package",
+              "version": "[1.0.3, )"
             }
           },
           "imports": [
