@@ -1,4 +1,5 @@
-﻿using Programatica.DummyApp.Mvc.Models;
+﻿using Programatica.DummyApp.Data.Models;
+using Programatica.DummyApp.Mvc.Models;
 using Programatica.Framework.Services.Handlers;
 
 namespace Programatica.DummyApp.Mvc.Handlers

@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using Microsoft.AspNetCore.Mvc;
+using Programatica.DummyApp.Data.Models;
 using Programatica.DummyApp.Mvc.Models;
 using Programatica.Framework.Services;
 

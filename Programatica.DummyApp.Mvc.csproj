@@ -22,7 +22,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Context\" />
     <Folder Include="Views\Users\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Programatica.DummyApp.Data\Programatica.DummyApp.Data.csproj" />
   </ItemGroup>
 
 </Project>

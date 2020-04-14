@@ -30,3 +30,5 @@ C:\Users\ruiribeiro\OneDrive\Workspace\_netcore2\Programatica.DummyApp.Mvc\obj\D
 C:\Users\ruiribeiro\OneDrive\Workspace\_netcore2\Programatica.DummyApp.Mvc\obj\Debug\netcoreapp2.1\Programatica.DummyApp.Mvc.dll
 C:\Users\ruiribeiro\OneDrive\Workspace\_netcore2\Programatica.DummyApp.Mvc\obj\Debug\netcoreapp2.1\Programatica.DummyApp.Mvc.pdb
 C:\Users\ruiribeiro\OneDrive\Workspace\_netcore2\Programatica.DummyApp.Mvc\obj\Debug\netcoreapp2.1\Programatica.DummyApp.Mvc.csproj.CopyComplete
+W:\Github\Programatica.DummyApp.Mvc\obj\Debug\netcoreapp2.1\Programatica.DummyApp.Mvc.dll
+W:\Github\Programatica.DummyApp.Mvc\obj\Debug\netcoreapp2.1\Programatica.DummyApp.Mvc.pdb

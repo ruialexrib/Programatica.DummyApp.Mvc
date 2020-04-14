@@ -8,7 +8,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Programatica.DummyApp.Mvc.Context;
+using Programatica.DummyApp.Data;
+using Programatica.DummyApp.Data.Models;
 using Programatica.DummyApp.Mvc.Handlers;
 using Programatica.DummyApp.Mvc.Models;
 using Programatica.Framework.Core.Adapter;
@@ -35,12 +36,12 @@ namespace Programatica.DummyApp.Mvc
         {
             // sqlserver context
             // uncomment this to use sql server
-            //services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             // inmemory context
             // comment this to use sql server
-             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(Configuration.GetConnectionString("DefaultConnection"));
-            services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase(builder.InitialCatalog));
+            //SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(Configuration.GetConnectionString("DefaultConnection"));
+            //services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase(builder.InitialCatalog));
 
             // context
             services.AddTransient<IDbContext, AppDbContext>();
