@@ -1,0 +1,9 @@
+W:\Github\Programatica.DummyApp.Data\bin\Debug\netstandard2.1\Programatica.DummyApp.Data.deps.json
+W:\Github\Programatica.DummyApp.Data\bin\Debug\netstandard2.1\Programatica.DummyApp.Data.dll
+W:\Github\Programatica.DummyApp.Data\obj\Debug\netstandard2.1\Programatica.DummyApp.Data.csprojAssemblyReference.cache
+W:\Github\Programatica.DummyApp.Data\obj\Debug\netstandard2.1\Programatica.DummyApp.Data.AssemblyInfoInputs.cache
+W:\Github\Programatica.DummyApp.Data\obj\Debug\netstandard2.1\Programatica.DummyApp.Data.AssemblyInfo.cs
+W:\Github\Programatica.DummyApp.Data\bin\Debug\netstandard2.1\Programatica.DummyApp.Data.pdb
+W:\Github\Programatica.DummyApp.Data\obj\Debug\netstandard2.1\Programatica.DummyApp.Data.dll
+W:\Github\Programatica.DummyApp.Data\obj\Debug\netstandard2.1\Programatica.DummyApp.Data.pdb
+W:\Github\Programatica.DummyApp.Data\obj\Debug\netstandard2.1\Programatica.DummyApp.Data.csproj.CoreCompileInputs.cache
